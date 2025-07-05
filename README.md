@@ -1,2 +1,2 @@
 # Ooohh La La Tartine Website
-React project deployable via Vercel.
+Deployed via Vercel using Create React App
